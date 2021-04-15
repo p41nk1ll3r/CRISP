@@ -1,36 +1,39 @@
-## Welcome to GitHub Pages
+## Welcome to CRISP
 
-You can use the [editor on GitHub](https://github.com/gongsale/CRISP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+CRISP is a multi-faceted project to study extinction towards supernovae and their environments though a variety of observational techniques including photometry,integral field spectroscopy and polarimetry of both SNe and their hosts, machine learning tools and theoretical 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](src)
 
-### Markdown
+### Team and collaborators
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Alessandro Razza (U.Chile)
+Ana Mourão (CENTRA-IST)
+Ana Paulina-Afonso (CENTRA-IST)
+Antonia Morales-Garaffolo (U.Cádiz)
+Alberto Krone-Martins (Irvine)
+Beatriz Pereira (CENTRA-IST)
+Claudia Gutiérrez (U.Turku)
+Francisco Förster (U.Chile)
+João Duarte (CENTRA-IST)
+João Silvestre (CENTRA-IST)
+Joe Anderson (ESO)
+Lluis Galbany (U.Granada)
+Marko Stalevski (O.Belgrade)
+Majda Smole (O.Belgrade)
+Pedro Garcia (CENTRA-FCUL)
+Santiago González-Gaitán (CENTRA-IST)
+Thomas de Jaeger (U.Hawaii)
+
+
 
 ```markdown
 Syntax highlighted code block
 
-# Team members and collaborators
-Alessandro Razza
-Ana Mourão
-Ana Paulina-Afonso
-Alberto Krone-Martins
-Beatriz Pereira
-Claudia Gutiérrez
-Francisco Förster
-João Duarte
-João Silvestre
-Joe Anderson
-Lluis Galbany
-Pedro Garcia
-Santiago González-Gaitán
-Thomas de Jaeger
+# Header 1
+## Header 2
+### Header 3
 
-## Projects
-
-- Impact of differing color-luminosity relations in SN Ia cosmology (PI González-Gaitán):
-what is the real 
+- Bulleted
 - List
 
 1. Numbered
