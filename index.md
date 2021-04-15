@@ -69,7 +69,7 @@ Imaging polarimetry of the nearby Circinus galaxy, host of an Active Galactic Nu
 The first statistical study of multi-band imaging polarimetry with optical data from FORS2-VLT and CAFOS-CAHA will deliver nearby galaxy maps of various physical characteristics like dust and magnetic field alignment. The data will be compared with Monte Carlo radiative transfer simulations with the code [SKIRT](https://skirt.ugent.be/root/_landing.html).
 
 <p align="center">
-<img src="galpol.jpg" alt="alt text" width=400 height=230>
+<img src="galpol.jpg" alt="alt text" width=500 height=230>
 </p>
 
 - **Instrumental field polarization of FORS2-VLT (PI: S. González-Gaitán)**:<br/>
@@ -81,7 +81,7 @@ Extended imaging polarization studies requires a full characterization of the in
 The scattering from the Moon in the sky produces a polarization pattern that needs to be corrected for when performing polarimetric observations in the night. We are investigating the observed pattern taken with FORS2-VLT data compared with single scattering and multiple scattering models.
 
 <p align="center">
-<img src="moonpol.jpg" alt="alt text" width=350 height=300>
+<img src="moonpol.jpg" alt="alt text" width=400 height=300>
 </p>
 
 - **Supernova polarization evolution (PI: A. Morales-Garoffolo)**:<br/>
@@ -93,7 +93,9 @@ The narrow absortpion lines found in SN spectra of all types reveal the slow mov
 - **Evolution of dust reddening law towards SNe Ia**:<br/>
 We investigate if the dust reddening law, Rv, changes with phase of the evolution of type Ia supernovae. We use optical and near-infrared light-curve with the fitter [SNpy](https://csp.obs.carnegiescience.edu/data/snpy) to constrain reddening laws across time. This would shed light on progenitors by constraining possible circumstellar material and dust properties towards SNe Ia.
 
-![Image](SNextinction.jpg)
+<p align="center">
+<img src="SNextinction.jpg" alt="alt text" width=300 height=200>
+</p>
 
 
 ### Meetings
