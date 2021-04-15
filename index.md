@@ -1,6 +1,6 @@
 ## Welcome to CRISP
 
-CRISP is a multi-faceted project to study extinction towards supernovae and their environments though a variety of observational techniques including photometry,integral field spectroscopy and polarimetry of both SNe and their hosts, as well as machine learning tools and radiative transfer techniques.
+CRISP is a multi-faceted project to study extinction towards supernovae (SNe) and their environments though a variety of observational techniques including photometry, integral field spectroscopy and polarimetry of both SNe and their hosts, as well as machine learning tools and radiative transfer techniques.
 
 <p align="center">
 <img src="crisp_logo_cut.jpg" alt="alt text" width=300 height=200>
@@ -31,7 +31,7 @@ Thomas de Jaeger (U.Hawaii)<br/>
 
 
 - **ARGAS: Artifically Redshifting of Galaxies (PI: A. Paulina-Afonso)**: <br/>
-Recent studies have shown that type Ia supernova (SN) distance estimation improves when using an additional term related to the host galaxy mass. However, the bias and systematics of using a limited set of broad-band filters across a large redhift range has never been evaluated. With extensive simulations of nearby integral field spectroscopy (IFS) galaxies set at high redshifts, we study here the impact of effects like dimming, scaling and SED fitting in current and future SN surveys.
+Recent studies have shown that type Ia supernova distance estimation improves when using an additional term related to the host galaxy mass. However, the bias and systematics of using a limited set of broad-band filters across a large redhift range has never been evaluated. With extensive simulations of nearby integral field spectroscopy (IFS) galaxies set at high redshifts, we study here the impact of effects like dimming, scaling and SED fitting in current and future SN surveys.
 ![Image](ARGAS.jpg)
 
 - **Impact of varying colour-luminosity relation in type Ia supernova cosmology (PI: T. de Jaeger, S. González-Gaitán)**:<br/>
@@ -47,7 +47,7 @@ We are obtaining for the first time a set of dust attenuation slopes for a cosmo
 </p>
 
 - **Dust attenuation slope maps of AMUSING galaxies (PI: A. Razza)**:<br/>
-We will obtaining map of dust attenuation slopes across nearby galaxies observed with Integral Fiel Spectroscopy (IFS) galaxies from the [AMUSING](https://amusing-muse.github.io/) survey. Spectra are complemented with optical, UV and NIR broad-band photometry. The method uses the SED fitter [prospector](https://prospect.readthedocs.io/en/latest/) and [FSPS](https://dfm.io/python-fsps/current/) population synthesis and is being tested with large simulations.
+We will obtain maps of dust attenuation slopes across nearby galaxies observed with Integral Fiel Spectroscopy (IFS) from the [AMUSING](https://amusing-muse.github.io/) survey. Spectra are complemented with optical, UV and NIR broad-band photometry. The method uses the SED fitter [prospector](https://prospect.readthedocs.io/en/latest/) and [FSPS](https://dfm.io/python-fsps/current/) population synthesis and is being tested with large simulations.
 
 
 - **Galaxy spatial field reconstruction with INLA (PI: S. González-Gaitán)**::<br/>
@@ -56,10 +56,10 @@ The spatial correlations of astrophysical quantities are normally poorly taken i
 ![Image](INLA.jpg)
 
 - **1.5D SED spatial fitting (PI: P. Garcia)**:
-The next step of the INLA spatial fitting applied to galaxy IFS is to simulatenously fit the wavelength and the spatial dimension. In a first 1.5D approach, we iteratively fit SED at each spaxel with [prospector](https://prospect.readthedocs.io/en/latest/) while the spatial part is done with [INLA](https://www.r-inla.org/). 
+The next step of the INLA spatial fitting applied to galaxy IFS is to simulatenously fit the wavelength and the spatial dimension. In a first 1.5D approach, we iteratively fit the SED at each spaxel with [prospector](https://prospect.readthedocs.io/en/latest/) while the spatial part is done with [INLA](https://www.r-inla.org/). 
 
 - **Optimization of radiative transfer codes (PI: M. Smole)**:
-Monte Carlo radiative transfer (MCRT) codes like [SKIRT](https://skirt.ugent.be/root/_landing.html) to simulate the observed distribution of light as a function of wavelength given an initial geometry and dust composition is computationally expensive. We are using the [INLA]((https://www.r-inla.org/) methodology to boost MCRT modeling of Active Galactic Nuclei (AGN) and galaxies requiring less initial photons and less compuational time.
+Monte Carlo radiative transfer (MCRT) codes like [SKIRT](https://skirt.ugent.be/root/_landing.html) simulate the observed distribution of light as a function of wavelength given an initial geometry and dust composition; but this is computationally expensive. We are using the [INLA]((https://www.r-inla.org/) methodology to boost MCRT modeling of Active Galactic Nuclei (AGN) and galaxies requiring less initial photons and less compuational time.
 
 - **Pilot project of polarimetric studies towards galaxies: the case of Circinus (PI: M. Stalevski, S. González-Gaitán)**:<br/>
 Imaging polarimetry of the nearby Circinus galaxy, host of an Active Galactic Nucleus (AGN), taken with FORS2-VLT in multiple optical bands allows the study of the geometry and dust characteristics of the central object and its galaxy. 
@@ -88,13 +88,13 @@ The scattering from the Moon in the sky produces a polarization pattern that nee
 </p>
 
 - **Supernova polarization evolution (PI: A. Morales-Garoffolo)**:<br/>
-We are investigating the evolution of the polarization of nearby SNe with linear imaging polarimetry with CAFOS-CAHA. Polarimetric studies reveal the asymmetries of SN explosions and provide a different view of the interstellar and circumstellar material around them.
+We are investigating the evolution of the polarization of nearby SNe with linear imaging polarimetry with CAFOS-CAHA. Polarimetric studies reveal the asymmetries of SN explosions and provide a unique view of the interstellar and circumstellar material around them.
 
 - **Narrow absorption lines in supernovae (PI: C. Gutiérrez, S. González-Gaitán)**:<br/>
 The narrow absortpion lines found in SN spectra of all types reveal the slow moving material in the line of sight towards SNe. We are investigating the frequency, strength, evolution and velocity of several species like Na I D, Ca II H & K, K I and diffuse interstellar bands for an unprecedented large sample of supernova spectra. 
 
 - **Evolution of dust reddening law towards SNe Ia**:<br/>
-We investigate if the dust reddening law, Rv, changes with phase of the evolution of type Ia supernovae. We use optical and near-infrared light-curve with the fitter [SNpy](https://csp.obs.carnegiescience.edu/data/snpy) to constrain reddening laws across time. This would shed light on progenitors by constraining possible circumstellar material and dust properties towards SNe Ia.
+We investigate if the dust reddening law, Rv, changes with phase of the evolution of type Ia supernovae. We use optical and near-infrared light-curve with the fitter [SNpy](https://csp.obs.carnegiescience.edu/data/snpy) to constrain reddening laws across time. This will shed light on progenitors by constraining possible circumstellar material and dust properties towards SNe Ia.
 
 <p align="center">
 <img src="SNextinction.jpg" alt="alt text" width=600 height=400>
