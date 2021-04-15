@@ -94,7 +94,7 @@ The narrow absortpion lines found in SN spectra of all types reveal the slow mov
 We investigate if the dust reddening law, Rv, changes with phase of the evolution of type Ia supernovae. We use optical and near-infrared light-curve with the fitter [SNpy](https://csp.obs.carnegiescience.edu/data/snpy) to constrain reddening laws across time. This would shed light on progenitors by constraining possible circumstellar material and dust properties towards SNe Ia.
 
 <p align="center">
-<img src="SNextinction.jpg" alt="alt text" width=300 height=200>
+<img src="SNextinction.jpg" alt="alt text" width=600 height=400>
 </p>
 
 
