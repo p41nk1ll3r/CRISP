@@ -7,37 +7,22 @@ CRISP is a multi-faceted project to study extinction towards supernovae and thei
 ### Team and collaborators
 
 Alessandro Razza (U.Chile)<br/>
-Ana Mourão (CENTRA-IST)
-
-Ana Paulina-Afonso (CENTRA-IST)
-
-Antonia Morales-Garaffolo (U.Cádiz)
-
-Alberto Krone-Martins (Irvine)
-
-Beatriz Pereira (CENTRA-IST)
-
-Claudia Gutiérrez (U.Turku)
-
-Francisco Förster (U.Chile)
-
-João Duarte (CENTRA-IST)
-
-João Silvestre (CENTRA-IST)
-
-Joe Anderson (ESO)
-
-Lluis Galbany (U.Granada)
-
-Marko Stalevski (O.Belgrade)
-
-Majda Smole (O.Belgrade)
-
-Pedro Garcia (CENTRA-FCUL)
-
-Santiago González-Gaitán (CENTRA-IST)
-
-Thomas de Jaeger (U.Hawaii)
+Ana Mourão (CENTRA-IST)<br/>
+Ana Paulina-Afonso (CENTRA-IST)<br/>
+Antonia Morales-Garaffolo (U.Cádiz)<br/>
+Alberto Krone-Martins (Irvine)<br/>
+Beatriz Pereira (CENTRA-IST)<br/>
+Claudia Gutiérrez (U.Turku)<br/>
+Francisco Förster (U.Chile)<br/>
+João Duarte (CENTRA-IST)<br/>
+João Silvestre (CENTRA-IST)<br/>
+Joe Anderson (ESO)<br/>
+Lluis Galbany (U.Granada)<br/>
+Marko Stalevski (O.Belgrade)<br/>
+Majda Smole (O.Belgrade)<br/>
+Pedro Garcia (CENTRA-FCUL)<br/>
+Santiago González-Gaitán (CENTRA-IST)<br/>
+Thomas de Jaeger (U.Hawaii)<br/>
 
 ### Projects
 
@@ -45,7 +30,7 @@ Thomas de Jaeger (U.Hawaii)
 Type Ia supernova (SN) cosmology has been essential in determining the accelerated expansion of the universe. However, the standardization of their luminosity to measure distances relies on a color-luminosity calibration that generally assumes a constant factor throughout the SN Ia population. We investigate in this project the effect of letting this parameter vary. 
 
 
-- 
+- ARGAS: Artifically Redshifting (PI: Paulina-Afonso): 
 
 ```markdown
 Syntax highlighted code block
