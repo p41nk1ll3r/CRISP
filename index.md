@@ -75,7 +75,7 @@ The first statistical study of multi-band imaging polarimetry with optical data 
 <img src="galpol.jpg" alt="alt text" width=500 height=230>
 </p>
 
-- **Instrumental field polarization of FORS2-VLT (PI: S. González-Gaitán)**:<br/>
+- **Instrumental field polarization of FORS2-VLT (PI: S. González-Gaitán, A Mourão)**:<br/>
 Extended imaging polarization studies requires a full characterization of the instrument which is known to produce spurious polarization patterns. We study the instrumental field polarization of the FORS2 instrument at VLT finding a radial polarization across the CCD. [Paper](https://ui.adsabs.harvard.edu/abs/2020A%26A...634A..70G/abstract) published. 
 
 ![Image](instpol.jpg)
