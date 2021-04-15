@@ -3,7 +3,7 @@
 CRISP is a multi-faceted project to study extinction towards supernovae and their environments though a variety of observational techniques including photometry,integral field spectroscopy and polarimetry of both SNe and their hosts, machine learning tools and theoretical 
 
 <p align="center">
-<img src="crisp_logo_cut.jpg" alt="alt text" width=100 height=100>
+<img src="crisp_logo_cut.jpg" alt="alt text" width=400 height=400>
 </p>
 
 
@@ -36,11 +36,17 @@ Recent studies have shown that type Ia supernova (SN) distance estimation improv
 
 - **Impact of varying colour-luminosity relation in type Ia supernova cosmology (PI: S. González-Gaitán)**:<br/>
 Type Ia SN cosmology has been essential in determining the accelerated expansion of the universe. However, the standardization of their luminosity to measure distances relies on a color-luminosity calibration that generally assumes a constant factor throughout the SN Ia population. We investigate in this project the effect of letting this parameter vary. [Paper](https://ui.adsabs.harvard.edu/abs/2020arXiv200913230G/abstract) submitted.
-![Image](beta_color_value.jpg)
+<p align="center">
+<img src="beta_color_value.jpg" alt="alt text" width=200 height=200>
+</p>
+
 
 - **Dust attenuation slopes of DES galaxies (PI: J. Duarte)**:<br/>
 We are obtaining for the first time a set of dust attenuation slopes for a cosmological sample of SNe Ia from their host galaxies with broad-band photometry from the Dark Energy Survey ([DES](https://www.darkenergysurvey.org/)) complemented with available GALEX UV photometry. We use the SED fitter [prospector](https://prospect.readthedocs.io/en/latest/) and [FSPS](https://dfm.io/python-fsps/current/) population synthesis code. The method is tested with simulations.
-![Image](prosp.png)
+<p align="center">
+<img src="prosp.jpg" alt="alt text" width=200 height=200>
+</p>
+
 
 - **Dust attenuation slopes of AMUSING galaxies (PI: A. Razza)**:<br/>
 We will obtaining map of dust attenuation slopes across nearby galaxies observed with Integral Fiel Spectroscopy (IFS) galaxies from the [AMUSING](https://amusing-muse.github.io/) survey. Spectra are complemented with optical, UV and NIR broad-band photometry. The method uses the SED fitter [prospector](https://prospect.readthedocs.io/en/latest/) and [FSPS](https://dfm.io/python-fsps/current/) population synthesis and is being tested with large simulations.
