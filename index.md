@@ -2,7 +2,7 @@
 
 CRISP is a multi-faceted project to study extinction towards supernovae and their environments though a variety of observational techniques including photometry,integral field spectroscopy and polarimetry of both SNe and their hosts, machine learning tools and theoretical 
 
-![Image](crisp_logo_cut.jpg | width=100)
+![Image](crisp_logo_cut.jpg)
 
 
 ### Team and collaborators
@@ -28,7 +28,7 @@ Thomas de Jaeger (U.Hawaii)<br/>
 ### Projects
 
 
-- ARGAS: Artifically Redshifting of Galaxies (PI: A. Paulina-Afonso): <br/>
+- #ARGAS: Artifically Redshifting of Galaxies (PI: A. Paulina-Afonso): <br/>
 Recent studies have shown that type Ia supernova (SN) distance estimation improves when using an additional term related to the host galaxy mass. However, the bias and systematics of using a limited set of broad-band filters across a large redhift range has never been evaluated. With extensive simulations of nearby integral field spectroscopy (IFS) galaxies set at high redshifts, we study here the impact of effects like dimming, scaling and SED fitting in current and future SN surveys.
 ![Image](ARGAS.jpg)
 
