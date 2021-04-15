@@ -58,6 +58,9 @@ The spatial correlations of astrophysical quantities are normally poorly taken i
 - **1.5D SED spatial fitting (PI: P. Garcia)**:
 The next step of the INLA spatial fitting applied to galaxy IFS is to simulatenously fit the wavelength and the spatial dimension. In a first 1.5D approach, we iteratively fit SED at each spaxel with [prospector](https://prospect.readthedocs.io/en/latest/) while the spatial part is done with [INLA](https://www.r-inla.org/). 
 
+- **Optimization of radiative transfer codes (PI: M. Smole)**:
+Monte Carlo radiative transfer (MCRT) codes like [SKIRT](https://skirt.ugent.be/root/_landing.html) to simulate the observed distribution of light as a function of wavelength given an initial geometry and dust composition is computationally expensive. We are using the [INLA]((https://www.r-inla.org/) methodology to boost MCRT modeling of Active Galactic Nuclei (AGN) and galaxies requiring less initial photons and less compuational time.
+
 - **Pilot project of polarimetric studies towards galaxies: the case of Circinus (PI: M. Stalevski, S. González-Gaitán)**:<br/>
 Imaging polarimetry of the nearby Circinus galaxy, host of an Active Galactic Nucleus (AGN), taken with FORS2-VLT in multiple optical bands allows the study of the geometry and dust characteristics of the central object and its galaxy. 
 
@@ -77,7 +80,7 @@ Extended imaging polarization studies requires a full characterization of the in
 
 ![Image](instpol.jpg)
 
-- **Moon polarization patters in the Sky (PI: B. Pereira)**:<br/>
+- **Moon polarization patterns in the Sky (PI: B. Pereira)**:<br/>
 The scattering from the Moon in the sky produces a polarization pattern that needs to be corrected for when performing polarimetric observations in the night. We are investigating the observed pattern taken with FORS2-VLT data compared with single scattering and multiple scattering models.
 
 <p align="center">
