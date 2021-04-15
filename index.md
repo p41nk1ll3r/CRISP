@@ -26,11 +26,15 @@ Thomas de Jaeger (U.Hawaii)<br/>
 
 ### Projects
 
+
+- ARGAS: Artifically Redshifting of Galaxies (PI: Paulina-Afonso): 
+Recent studies have shown that type Ia supernova (SN) distance estimation improves when using an additional term related to the host galaxy mass. However, the bias and systematics of using a limited set of broad-band filters across a large redhift range has never been evaluated. With extensive simulations of nearby IFS galaxies set at high redshifts, we study here the impact of effects like dimming, scaling and SED fitting in current and future SN surveys.
+![Image](ARGAS.jpg)
+
 - [Impact of varying colour-luminosity relation in type Ia supernova cosmology](https://ui.adsabs.harvard.edu/abs/2020arXiv200913230G/abstract) (PI: González-Gaitán):
-Type Ia supernova (SN) cosmology has been essential in determining the accelerated expansion of the universe. However, the standardization of their luminosity to measure distances relies on a color-luminosity calibration that generally assumes a constant factor throughout the SN Ia population. We investigate in this project the effect of letting this parameter vary. 
+Type Ia SN cosmology has been essential in determining the accelerated expansion of the universe. However, the standardization of their luminosity to measure distances relies on a color-luminosity calibration that generally assumes a constant factor throughout the SN Ia population. We investigate in this project the effect of letting this parameter vary. 
+![Image](beta_color_value.pdf)
 
-
-- ARGAS: Artifically Redshifting (PI: Paulina-Afonso): 
 
 ```markdown
 Syntax highlighted code block
