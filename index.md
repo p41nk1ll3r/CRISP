@@ -34,7 +34,7 @@ Thomas de Jaeger (U.Hawaii)<br/>
 Recent studies have shown that type Ia supernova (SN) distance estimation improves when using an additional term related to the host galaxy mass. However, the bias and systematics of using a limited set of broad-band filters across a large redhift range has never been evaluated. With extensive simulations of nearby integral field spectroscopy (IFS) galaxies set at high redshifts, we study here the impact of effects like dimming, scaling and SED fitting in current and future SN surveys.
 ![Image](ARGAS.jpg)
 
-- **Impact of varying colour-luminosity relation in type Ia supernova cosmology (PI: S. González-Gaitán)**:<br/>
+- **Impact of varying colour-luminosity relation in type Ia supernova cosmology (PI: T. de Jaeger, S. González-Gaitán)**:<br/>
 Type Ia SN cosmology has been essential in determining the accelerated expansion of the universe. However, the standardization of their luminosity to measure distances relies on a color-luminosity calibration that generally assumes a constant factor throughout the SN Ia population. We investigate in this project the effect of letting this parameter vary. [Paper](https://ui.adsabs.harvard.edu/abs/2020arXiv200913230G/abstract) submitted.
 <p align="center">
 <img src="beta_color_value.jpg" alt="alt text" width=300 height=300>
@@ -69,7 +69,7 @@ Imaging polarimetry of the nearby Circinus galaxy, host of an Active Galactic Nu
 The first statistical study of multi-band imaging polarimetry with optical data from FORS2-VLT and CAFOS-CAHA will deliver nearby galaxy maps of various physical characteristics like dust and magnetic field alignment. The data will be compared with Monte Carlo radiative transfer simulations with the code [SKIRT](https://skirt.ugent.be/root/_landing.html).
 
 <p align="center">
-<img src="Circinus.jpg" alt="alt text" width=250 height=300>
+<img src="galpol.jpg" alt="alt text" width=250 height=300>
 </p>
 
 - **Instrumental field polarization of FORS2-VLT (PI: S. González-Gaitán)**:<br/>
@@ -84,3 +84,8 @@ The scattering from the Moon in the sky produces a polarization pattern that nee
 <img src="moonpol.jpg" alt="alt text" width=250 height=300>
 </p>
 
+- **Supernova polarization evolution (PI: A. Morales-Garoffolo)**:<br/>
+We are investigating the evolution of the polarization of nearby SNe with linear imaging polarimetry with CAFOS-CAHA. Polarimetric studies reveal the asymmetries of SN explosions and provide a different view of the interstellar and circumstellar material around them.
+
+- **Narrow absorption lines in supernovae (PI: C. Gutiérrez, S. González-Gaitán)**:<br/>
+The narrow absortpion lines found in SN spectra of all types reveal the slow moving material in the line of sight towards SNe. We are investigating the frequency, strength, evolution and velocity of several species like Na I D, Ca II H & K, K I and diffuse interstellar bands for an unprecedented large sample of supernova spectra. 
