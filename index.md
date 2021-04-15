@@ -27,14 +27,23 @@ Thomas de Jaeger (U.Hawaii)<br/>
 ### Projects
 
 
-- ARGAS: Artifically Redshifting of Galaxies (PI: Paulina-Afonso): 
-Recent studies have shown that type Ia supernova (SN) distance estimation improves when using an additional term related to the host galaxy mass. However, the bias and systematics of using a limited set of broad-band filters across a large redhift range has never been evaluated. With extensive simulations of nearby IFS galaxies set at high redshifts, we study here the impact of effects like dimming, scaling and SED fitting in current and future SN surveys.
+- ARGAS: Artifically Redshifting of Galaxies (PI: A. Paulina-Afonso): <br/>
+Recent studies have shown that type Ia supernova (SN) distance estimation improves when using an additional term related to the host galaxy mass. However, the bias and systematics of using a limited set of broad-band filters across a large redhift range has never been evaluated. With extensive simulations of nearby integral field spectroscopy (IFS) galaxies set at high redshifts, we study here the impact of effects like dimming, scaling and SED fitting in current and future SN surveys.
 ![Image](ARGAS.jpg)
 
-- [Impact of varying colour-luminosity relation in type Ia supernova cosmology](https://ui.adsabs.harvard.edu/abs/2020arXiv200913230G/abstract) (PI: González-Gaitán):
+- [Impact of varying colour-luminosity relation in type Ia supernova cosmology](https://ui.adsabs.harvard.edu/abs/2020arXiv200913230G/abstract) (PI: S. González-Gaitán):<br/>
 Type Ia SN cosmology has been essential in determining the accelerated expansion of the universe. However, the standardization of their luminosity to measure distances relies on a color-luminosity calibration that generally assumes a constant factor throughout the SN Ia population. We investigate in this project the effect of letting this parameter vary. 
-![Image](beta_color_value.pdf)
+![Image](beta_color_value.png)
 
+- Dust attenuation slopes of DES galaxies (PI: J. Duarte):<br/>
+We are obtaining for the first time a set of dust attenuation slopes for a cosmological sample of SNe Ia from their host galaxies with broad-band photometry from the Dark Energy Survey ([DES](https://www.darkenergysurvey.org/)) complemented with available GALEX UV photometry. We use the SED fitter [prospector](https://prospect.readthedocs.io/en/latest/) and [FSPS](https://dfm.io/python-fsps/current/) population synthesis code. The method is tested with simulations.
+
+- Dust attenuation slopes of AMUSING galaxies (PI: A. Razza):<br/>
+We will obtaining map of dust attenuation slopes across nearby galaxies observed with Integral Fiel Spectroscopy (IFS) galaxies from the [AMUSING]() survey. Spectra are complemented with optical, UV and NIR broad-band photometry. The method is being tested with large simulations.
+
+- Polarimetric studies towards galaxies:<br/>
+Type Ia SN cosmology has been essential in determining the accelerated expansion of the universe. However, the standardization of their luminosity to measure distances relies on a color-luminosity calibration that generally assumes a constant factor throughout the SN Ia population. We investigate in this project the effect of letting this parameter vary. 
+![Image](beta_color_value.png)
 
 ```markdown
 Syntax highlighted code block
