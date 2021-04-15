@@ -18,7 +18,7 @@ Beatriz Pereira (CENTRA-IST)<br/>
 Claudia Gutiérrez (U.Turku)<br/>
 Francisco Förster (U.Chile)<br/>
 João Duarte (CENTRA-IST)<br/>
-João Silvestre (CENTRA-IST)<br/>
+João Rino-Silvestre (CENTRA-IST)<br/>
 Joe Anderson (ESO)<br/>
 Lluis Galbany (U.Granada)<br/>
 Marko Stalevski (O.Belgrade)<br/>
