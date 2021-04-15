@@ -11,11 +11,26 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Team members and collaborators
+Alessandro Razza
+Ana Mourão
+Ana Paulina-Afonso
+Alberto Krone-Martins
+Beatriz Pereira
+Claudia Gutiérrez
+Francisco Förster
+João Duarte
+João Silvestre
+Joe Anderson
+Lluis Galbany
+Pedro Garcia
+Santiago González-Gaitán
+Thomas de Jaeger
 
-- Bulleted
+## Projects
+
+- Impact of differing color-luminosity relations in SN Ia cosmology (PI González-Gaitán):
+what is the real 
 - List
 
 1. Numbered
